@@ -112,6 +112,15 @@ Dashboard filters include:
 
 ---
 
+---
+## 📂 Project Files (Download)
+Due to GitHub file size limitations, large files are hosted externally:
+
+- 📊 Excel File & 🗄 SQL File: [Download Here](https://drive.google.com/drive/folders/14Hh48fVr6dPqcXteaTU_V_BMes-0d2KM?usp=sharing)
+⚠️ Note: Due to GitHub file size limitations, full datasets are hosted externally.  
+This repository contains cleaned sample data and dashboard visuals for demonstration purposes.
+---
+
 ## 📊 Dashboard Preview
 
 (Add screenshot here after upload)
